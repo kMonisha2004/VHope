@@ -1,0 +1,26 @@
+.footer{
+    padding:10px;
+    background-color: black;
+    height: 100px;
+    color: aliceblue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+ul li{
+    display: inline;
+    padding-left: 55px;
+  }
+.email{
+    color: aliceblue;
+
+}
+.phone{
+    color: aliceblue;
+}
+.loca{
+    color: aliceblue;
+}
